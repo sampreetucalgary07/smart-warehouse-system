@@ -44,7 +44,7 @@ As one of the goal of this project was to access our result from the cloud itsel
 ## References
 
 • Bochkovskiy, Alexey, Chien-Yao Wang, and Hong-Yuan Mark Liao. ”Yolov4: Optimal
-speed and accuracy of object detection.” arXiv preprint arXiv:2004.10934 (2020).
+speed and accuracy of object detection.” arXiv preprint arXiv:2004.10934 (2020). \n
 • Voutos, Yorghos Drakopoulos, Georgios & Mylonas, Phivos. (2019). Smart Agriculture:
 An Open Field For Smart Contracts.
 • Train YOLOv4-tiny on Custom Data - Lightning Fast Object Detection. Roboflow.
@@ -63,5 +63,3 @@ https://github.com/AlexeyAB/darknet
 https://app.roboflow.com
 • Raspbian Pi for home.
 https://www.raspberrypi.com/for-home/
-
-## References
