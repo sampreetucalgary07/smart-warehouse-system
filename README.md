@@ -44,22 +44,22 @@ As one of the goal of this project was to access our result from the cloud itsel
 ## References
 
 • Bochkovskiy, Alexey, Chien-Yao Wang, and Hong-Yuan Mark Liao. ”Yolov4: Optimal
-speed and accuracy of object detection.” arXiv preprint arXiv:2004.10934 (2020). \n
+speed and accuracy of object detection.” arXiv preprint arXiv:2004.10934 (2020). <br />
 • Voutos, Yorghos Drakopoulos, Georgios & Mylonas, Phivos. (2019). Smart Agriculture:
-An Open Field For Smart Contracts.
+An Open Field For Smart Contracts. <br />
 • Train YOLOv4-tiny on Custom Data - Lightning Fast Object Detection. Roboflow.
-https://blog.roboflow.com/train-yolov4-tiny-on-custom-data-lighting-fast-detection/
+https://blog.roboflow.com/train-yolov4-tiny-on-custom-data-lighting-fast-detection/ <br />
 • YOLOv4 vs YOLOv4-tiny, Medium.com.
-https://medium.com/analytics-vidhya/yolov4-vs-yolov4-tiny-97932b6ec8ec
+https://medium.com/analytics-vidhya/yolov4-vs-yolov4-tiny-97932b6ec8ec <br />
 • Google Colaboratory
 https://colab.research.google.com
-• Machine Learning Tracking using Raspberry Pi.
+• Machine Learning Tracking using Raspberry Pi. <br />
 https://www.hackster.io/
-• Microsoft Azure IoT central
+• Microsoft Azure IoT central <br />
 https://azure.microsoft.com/en-us/services/iot-central/
-• Yolo v4, v3 and v2 for Windows and Linux, by AlexyAB.
+• Yolo v4, v3 and v2 for Windows and Linux, by AlexyAB. <br />
 https://github.com/AlexeyAB/darknet
 • Roboflow.com for splitting,preprocessing and augmentation of dataset.
-https://app.roboflow.com
+https://app.roboflow.com <br />
 • Raspbian Pi for home.
-https://www.raspberrypi.com/for-home/
+https://www.raspberrypi.com/for-home/ <br />
