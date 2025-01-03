@@ -34,3 +34,34 @@ Link for dataset: https://www.kaggle.com/datasets/sampreetvaidya/warehouse-box-c
 ![result-2](img/result-2.png)
 
 ![result-3](img/result-3.png)
+
+## Remote Access
+
+As one of the goal of this project was to access our result from the cloud itself, I have used Microsoft Azure IoT central for it. Azure IoT central is an IoT application platform that is used to create the IoT solutions with an ready to use User interface and API which can be used to connect and manage the edge devices. For this project, a free trial was used. In the figure given below, we can see the screen shot of azure Iot central showing the number of boxes.
+
+![remote-access](img/remote-access.png)
+
+## References
+
+• Bochkovskiy, Alexey, Chien-Yao Wang, and Hong-Yuan Mark Liao. ”Yolov4: Optimal
+speed and accuracy of object detection.” arXiv preprint arXiv:2004.10934 (2020).
+• Voutos, Yorghos Drakopoulos, Georgios & Mylonas, Phivos. (2019). Smart Agriculture:
+An Open Field For Smart Contracts.
+• Train YOLOv4-tiny on Custom Data - Lightning Fast Object Detection. Roboflow.
+https://blog.roboflow.com/train-yolov4-tiny-on-custom-data-lighting-fast-detection/
+• YOLOv4 vs YOLOv4-tiny, Medium.com.
+https://medium.com/analytics-vidhya/yolov4-vs-yolov4-tiny-97932b6ec8ec
+• Google Colaboratory
+https://colab.research.google.com
+• Machine Learning Tracking using Raspberry Pi.
+https://www.hackster.io/
+• Microsoft Azure IoT central
+https://azure.microsoft.com/en-us/services/iot-central/
+• Yolo v4, v3 and v2 for Windows and Linux, by AlexyAB.
+https://github.com/AlexeyAB/darknet
+• Roboflow.com for splitting,preprocessing and augmentation of dataset.
+https://app.roboflow.com
+• Raspbian Pi for home.
+https://www.raspberrypi.com/for-home/
+
+## References
