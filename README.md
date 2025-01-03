@@ -8,4 +8,25 @@ of counting the boxes where human reach is usually not considerable.
 In this project, a smart warehouse counting system has been implemented using Artificial
 intelligence, IoT and cloud where the counting of boxes can be done remotely and slightest human intervention.
 
-# Prediction results
+## Dataset
+
+This dataset was exported via roboflow.ai.
+
+It includes 340 images.
+Box are annotated in YOLO v3 Darknet format.
+
+The following pre-processing was applied to each image:
+
+Auto-orientation of pixel data (with EXIF-orientation stripping)
+Resize to 416x416 (Stretch)
+The following augmentation was applied to create 3 versions of each source image:
+
+50% probability of horizontal flip
+50% probability of vertical flip
+Random rotation of between -10 and +10 degrees
+
+Link for dataset: https://www.kaggle.com/datasets/sampreetvaidya/warehouse-box-count
+
+## Prediction results
+
+!(img/result-1)
