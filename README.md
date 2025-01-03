@@ -52,13 +52,13 @@ https://blog.roboflow.com/train-yolov4-tiny-on-custom-data-lighting-fast-detecti
 • YOLOv4 vs YOLOv4-tiny, Medium.com.
 https://medium.com/analytics-vidhya/yolov4-vs-yolov4-tiny-97932b6ec8ec <br />
 • Google Colaboratory
-https://colab.research.google.com
-• Machine Learning Tracking using Raspberry Pi. <br />
-https://www.hackster.io/
-• Microsoft Azure IoT central <br />
-https://azure.microsoft.com/en-us/services/iot-central/
-• Yolo v4, v3 and v2 for Windows and Linux, by AlexyAB. <br />
-https://github.com/AlexeyAB/darknet
+https://colab.research.google.com <br />
+• Machine Learning Tracking using Raspberry Pi.
+https://www.hackster.io/ <br />
+• Microsoft Azure IoT central
+https://azure.microsoft.com/en-us/services/iot-central/ <br />
+• Yolo v4, v3 and v2 for Windows and Linux, by AlexyAB.
+https://github.com/AlexeyAB/darknet <br />
 • Roboflow.com for splitting,preprocessing and augmentation of dataset.
 https://app.roboflow.com <br />
 • Raspbian Pi for home.
