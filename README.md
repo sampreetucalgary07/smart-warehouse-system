@@ -29,4 +29,8 @@ Link for dataset: https://www.kaggle.com/datasets/sampreetvaidya/warehouse-box-c
 
 ## Prediction results
 
-![result-1](img/result-1)
+![result-1](img/result-1.png)
+
+![result-2](img/result-2.png)
+
+![result-3](img/result-3.png)
